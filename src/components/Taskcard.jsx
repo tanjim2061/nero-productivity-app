@@ -11,14 +11,14 @@ const TaskCard = ({ title }) => {
 export default Taskcard;
 
 // 11. NoteItem.jsx
-import React from 'react';
+// import React from 'react';
 
-const NoteItem = ({ note }) => {
-  return (
-    <div className="note-item">
-      <p>{note}</p>
-    </div>
-  );
-};
+// const NoteItem = ({ note }) => {
+//   return (
+//     <div className="note-item">
+//       <p>{note}</p>
+//     </div>
+//   );
+// };
 
-export default Noteitem;
+// export default Noteitem;
