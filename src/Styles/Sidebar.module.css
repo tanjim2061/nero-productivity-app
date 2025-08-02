@@ -1,0 +1,7 @@
+.navbar {
+  background-color: #111;
+  padding: 10px;
+  color: #0ff;
+  display: flex;
+  justify-content: flex-end;
+}
